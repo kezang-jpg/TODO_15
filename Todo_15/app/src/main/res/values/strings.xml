@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TODO15</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="First">Top series</string>
+    <string name="Second">Tech news</string>
+    <string name="Third">Cooking</string>
+
+
+
+
+
+</resources>
