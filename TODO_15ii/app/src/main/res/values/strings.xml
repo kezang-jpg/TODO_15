@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">New Drawer Experiment</string>
+    <string name="profile">Gallery</string>
+    <string name="home">Import</string>
+    <string name="information">SlideShow</string>
+    <string name="logout">Tools</string>
+    <string name="tshogyan">My app</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+</resources>
